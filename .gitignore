@@ -27,3 +27,7 @@ dist-ssr
 
 # Claude Code
 .claude/
+
+# Electron build artifacts
+electron/
+release/
